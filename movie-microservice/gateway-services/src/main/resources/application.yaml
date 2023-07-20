@@ -1,0 +1,18 @@
+server:
+  port: 8070
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    gateway:
+      routes:
+        - id: list-all-items
+          uri: http://localhost:8090
+          predicates:
+            - Path=/api/v1/customer/**
+            - Method=GET,POST
+logging:
+  level:
+    root: INFO
+    org.springframework.cloud.gateway: DEBUG
+    org.springframework.cloud.gateway.route.RouteDefinitionRouteLocator: INFO

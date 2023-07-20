@@ -1,0 +1,36 @@
+to do list
+<body>
+
+
+
+
+
+
+
+</body
+
+js
+---------------
+const btnAdd= document.querySelector('#btnAdd');
+const todoInput=document.querySelector('#to-doInput');
+//eventhandler
+ const addTodo= function(event){
+  event.preventDefault();              
+  console.log('todo-added');                 //to do will be added
+  let todo=todoInput.value;                  // we are adding new value to the list
+  console.log('todo: ${todo});
+
+}
+const createtodo= function(todo){
+  
+    let todoItem=document.createElement('div');
+    let checkbox=document.createElement('input');
+     let label=document.createElement('label');
+
+      label.InnerText= todo
+       checkbox.type='checkbox';
+       
+
+}
+//
+btnAdd.addeventListner('click',addtoDo);

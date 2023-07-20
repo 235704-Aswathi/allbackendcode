@@ -1,0 +1,5 @@
+org\example\Domain\Book.class
+org\example\Service\BookService.class
+org\example\Main.class
+org\example\Controller\controller.class
+org\example\Repository\Repository.class

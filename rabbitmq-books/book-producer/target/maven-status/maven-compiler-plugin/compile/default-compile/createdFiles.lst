@@ -1,0 +1,4 @@
+in\stackroute\Dto\ResponseDto.class
+in\stackroute\Main.class
+in\stackroute\Controllers\BookProducerController.class
+in\stackroute\config\RabbitMQConfig.class

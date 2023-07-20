@@ -1,0 +1,4 @@
+org\example\Entity\domain.class
+org\example\Controller\controoler.class
+org\example\Repository\repo.class
+org\example\Main.class

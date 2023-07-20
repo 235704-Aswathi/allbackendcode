@@ -1,0 +1,29 @@
+capstone                    =  3
+
+attendence                =  98.06
+
+prehiring qualifier   =  45
+
+pre training assessment =  65.22
+
+module 1                  =  90.12
+
+module 2                 =   19.89
+
+module 3                 =  100
+
+module 4                 =    0
+
+foundation attempt 1   =  66.25
+
+foundation attempt 2   =  na
+
+module 1 advanced    =  88.79
+
+module 2 advanced   =   0.91
+
+advanced attempt 1  =    94.32
+
+advanced attempt 2   =  na
+
+hackathon score    =   77.74

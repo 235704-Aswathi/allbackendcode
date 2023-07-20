@@ -1,0 +1,14 @@
+install spring boot app
+--------------------------------------
+ 1.build the application jar file
+2.install jre in the client
+3. install the os
+
+Deployment of an application
+-------------------------------------
+1. set up the execution env , install the os,configure the os
+2.install the deps(jre, other softwares)
+3.install the client app
+4.configure the app
+
+

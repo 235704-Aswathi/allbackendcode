@@ -1,0 +1,7 @@
+Analyze "wave90": sqp_a439af50f04494bd43a38c111ab43f74f9bdc26c
+
+
+mvn clean verify sonar:sonar \
+  -Dsonar.projectKey=wave90 \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=sqp_a439af50f04494bd43a38c111ab43f74f9bdc26c
